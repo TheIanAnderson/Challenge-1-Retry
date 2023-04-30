@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("./Develop/assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -91,6 +91,7 @@ p {
     color: #ffffff;
 }
 
+
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +101,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* These classes were redundant and had no class, notted them out.
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -110,6 +111,8 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+*/
 
 .benefit-cost h3 {
     margin-bottom: 10px;
@@ -122,6 +125,8 @@ p {
     max-width: 150px;
 }
 
+
+
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -133,6 +138,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
